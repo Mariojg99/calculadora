@@ -1,0 +1,19 @@
+.App {
+    background: #222;
+    width: 350px;
+    height: 85vh;
+    margin: 40px auto;
+    border-radius: 1rem;
+    padding: 20px;
+    box-shadow: 3px 3px 3px 2px #22222275;
+}
+
+.container-casio {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+}
+
+.container-casio img {
+    width: 100px;
+}

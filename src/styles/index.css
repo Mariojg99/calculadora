@@ -1,0 +1,15 @@
+/* Dosis font */
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@600&display=swap');
+/* ZCOOL font */
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+QingKe+HuangYou&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  font-size: 30px;
+  background: linear-gradient(to right, #f5ffa0, #82fdb5, #78bdfd );
+}
